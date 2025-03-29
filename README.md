@@ -24,4 +24,4 @@ This is my first project using **React**, **Vite**, and **React Icons**. This pr
 
 ## Project Links
 
--   [Live Website](https://mohamedayman011.github.io/portfoilo-react-v1)
+-   [Live Website](https://mohamedayman011.github.io/portfolio-react-v1)
